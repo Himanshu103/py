@@ -2,7 +2,7 @@
 
 Below is the step by step process of how you can start with zero knowledge and no computer science background and master coding skills **for FREE** by following online resources and self study
 
-Week 1 & 2
+2 weeks
 ==========
 
 ### 1. Understand principals of effective learning
@@ -17,7 +17,7 @@ Program or code runs on a computer and uses CPU,RAM, input/output devices. This 
 
 https://www.khanacademy.org/computing/ap-computer-science-principles/computers-101
 
-Week 3 & 4
+3 weeks 
 ==========
 
 ### 3. Choose Career Track
@@ -71,7 +71,7 @@ Python hindi tutorials: https://www.youtube.com/playlist?list=PLPbgcxheSpE1DJKfd
 I've many interesting exercises and their solutions at this place: https://github.com/codebasics/py/tree/master/Basics/Hindi
 (The folder name is hindi but exercise is for both hindi and english tutorials)
 
-Week 5 & 6
+2 weeks
 ==========
 
 ### 5. Debugging skills
@@ -96,7 +96,7 @@ to get your data structure concepts clear.
 Data structures playlist: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
 
 
-Week 7 & 8
+2 weeks 
 ==========
 
 ### 7. SQL Basics
@@ -110,7 +110,7 @@ Kudavenkat SQL playlist (watch first 12 videos): https://www.youtube.com/playlis
 For kudavenkat playlist above, if you are interested in going little more deeper into SQL then you can 
 watch tutorials beyond # 12.
 
-Week 9 & 10
+2 weeks 
 ===========
 
 ### 8. Level 2 Coding Tutorials
@@ -127,7 +127,7 @@ Codebasics python tutorials (tutorial # 15 to # 27): https://www.youtube.com/pla
 Interactive weg pages: https://www.khanacademy.org/computing/computer-programming/html-css-js
 JQuery: https://www.khanacademy.org/computing/computer-programming/html-js-jquery
 
-Week 11 & 12
+2 weeks 
 ============
 
 ### 9. Algorithms
